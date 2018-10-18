@@ -1,0 +1,9 @@
+.answer {
+  display: none;
+}
+.terms {
+  display: none;
+}
+.card-content{
+  min-height: 200px;
+}
